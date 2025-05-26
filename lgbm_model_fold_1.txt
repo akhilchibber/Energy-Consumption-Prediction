@@ -1,0 +1,9 @@
+version=v4
+num_class=1
+objective=regression
+tree
+num_iterations=1
+num_leaves=2
+num_tree_per_iteration=1
+feature_names=building_id site_id primary_use meter dayofweek square_feet year_built floor_count air_temperature dew_temperature cloud_coverage wind_direction wind_speed sea_level_pressure precip_depth_1_hr relative_humidity feels_like hour
+end_tree
